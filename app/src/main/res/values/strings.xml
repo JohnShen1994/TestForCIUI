@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestForCIUI</string>
+    <string name="CIswitch">骚扰拦截开关</string>
+    <string name="blacknum">黑名单</string>
+    <string name="tiltename">通讯小助手</string>
+    <string name="insert_blackname">添加黑名单</string>
+    <string name="blnumber">号码</string>
+    <string name="blname">姓名</string>
+    <string name="tips">小贴士：想将某号码段加入黑名单，请在号码段后加*，例如“400*“</string>
+</resources>
